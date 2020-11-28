@@ -1,5 +1,7 @@
 [
-{ "title": "Teste", "url": "https://savilexperiments.com.br"},
-{ "title": "Teste2", "url": "https://savilexperiments.com.br/portfolio"},
-{ "title": "Teste3", "url": "https://savilexperiments.com.br/portfolio"}
+{ "title": "Portfolio", "url": "./portfolio"},
+{ "title": "Fotografias", "url": "./portfolio/fotografias"},
+{ "title": "Girassol Boutique", "url": "./girassolboutique"},
+{ "title": "Colaboration Skill", "url": "./colaboracao-skill"},
+{ "title": "Cronograma", "url": "./cronograma"}
 ]
