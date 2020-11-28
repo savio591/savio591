@@ -3,5 +3,7 @@
 { "title": "Fotografias", "url": "./portfolio/fotografias"},
 { "title": "Girassol Boutique", "url": "./girassolboutique"},
 { "title": "Colaboration Skill", "url": "./colaboracao-skill"},
-{ "title": "Cronograma", "url": "./cronograma"}
+{ "title": "Cronograma", "url": "./cronograma"},
+{ "title": "Som dos Gestos", "url": "https://github.com/savio591/som-dos-gestos-HackathonSonyCodeStage"},
+{ "title": "HackathonCNT", "url": "https://github.com/savio591/Time27-HackathonCNT"}
 ]
