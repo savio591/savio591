@@ -1,6 +1,6 @@
 [
 { "title": "Portfolio", "url": "./portfolio"},
-{ "title": "Fotografias", "url": "./portfolio/fotografias"},
+{ "title": "Fotografias", "url": "./portfolio/fotografia"},
 { "title": "Girassol Boutique", "url": "./girassolboutique"},
 { "title": "Colaboration Skill", "url": "./colaboracao-skill"},
 { "title": "Cronograma", "url": "./cronograma"},
