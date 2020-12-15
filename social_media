@@ -1,10 +1,17 @@
 [
-{
-    "title": "Instagram",
-    "url":"https://instagram.com/phsvio",
-    "icon":"https://raw.githubusercontent.com/savio591/savio591.github.io/master/src/assets/instagram.svg"
- },
-    {   "title": "Linkedin",
-        "url": "https://linkedin.com/in/savio591"
+    {
+        "title": "Instagram",
+        "url": "https://instagram.com/phsvio",
+        "icon": "https://raw.githubusercontent.com/savio591/savio591.github.io/master/src/assets/instagram.svg"
+    },
+    {
+        "title": "Linkedin",
+        "url": "https://linkedin.com/in/savio591",
+        "icon": "https://raw.githubusercontent.com/savio591/savio591.github.io/master/src/assets/linkedin.svg"
+    },
+    {
+        "title": "Github",
+        "url": "https://github.com/savio591/",
+        "icon": "https://raw.githubusercontent.com/savio591/savio591.github.io/master/src/assets/linkedin.svg"
     }
 ]
