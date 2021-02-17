@@ -1,4 +1,4 @@
-sh ~/savio $cat README.MD
+sh /home/github $cat README.md
 
 ### Olá, visitante!
 
