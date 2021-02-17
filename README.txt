@@ -1,4 +1,4 @@
-#/bin/bash --cd /home/github/ & cat README.md
+#!/bin/bash --cd /home/github/ & cat README.md
 
 ### Olá, visitante!
 
