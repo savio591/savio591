@@ -1,4 +1,10 @@
-#!/bin/bash --cd /home/github/ & cat README.md
+#!/bin/bash --cd /home/github/ & cat logo.ehs && README.md
+
+'''
+(`    .|  [~     _   .,_  _ ,_|- _
+_)(|\/||  [_><|)(/_|`||||(/_|||__\
+              |                   
+'''
 
 ### Olá, visitante!
 
