@@ -11,4 +11,4 @@ _)(|\/||  [_><|)(/_|`||||(/_|||__\
 
 -> Sou o Savio Castelo, tenho 23 anos, desde aos 14 anos trabalho com Design Gráfico e Fotografia, faço Design de Produtos na Universidade Estadual do Amapá e Web Design no SENAI/AP. 
 
--> O Design é a minha paixão, e para completar, também me apaixonei pelo Desenvolvimento. Atualmente dedico a maior parte do tempo em conhecimento Front-End JAMStack.
+-> O Design é a minha paixão, e para completar, também me apaixonei pelo Mundo Dev. Atualmente dedico a maior parte do tempo em conhecimento sobre Front-End JAMStack através de um bootcamp e um programa de aceleração dev e testes técnicos de _job offers_.
