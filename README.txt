@@ -14,7 +14,7 @@ _)(|\/||  [_><|)(/_|`||||(/_|||__\
 -> O Design é a minha paixão, e para completar, também me apaixonei pelo Mundo Dev. Atualmente dedico a maior parte do tempo em conhecimento sobre Front-End através de amigos, conexões, um bootcamp, um programa de aceleração dev e testes técnicos de _job offers_.
 
 -> Tenho domínio das stacks do Node, como: 
-  * JS - CommonJS, Typescript, Babel(ES6+, ESM)
+  * JS - CommonJS, Typescript, Babel(ESM)
   * SPA - React.js com Webpack e CRA;
   * SSR e Rest API's - Next.js e Express;
   
