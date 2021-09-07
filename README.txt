@@ -1,5 +1,5 @@
 #!/bin/bash
-!cd /home/github/ & cat logo.ehs && README.md
+!cd /home/github/ & cat logo.ehs && README.nfo
 
 '''
 (`    .|  [~     _   .,_  _ ,_|- _
