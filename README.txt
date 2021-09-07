@@ -20,7 +20,7 @@ _)(|\/||  [_><|)(/_|`||||(/_|||__\
 -> Tenho domínio das stacks do Node, como: 
   * JS - CommonJS, Typescript e Babel(ESM)
   * SPA - React.js com Webpack e CRA;
-  * SSR e Rest API's - Next.js e Express;
+  * SSR e Rest API's - Next.js(Lambda/serverless) e Express;
   
 -> Banco de dados que uso frequentente:
  * FaunaDB - Para queries serveless com Next.js;
