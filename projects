@@ -1,38 +1,42 @@
 [
-    {
-        "title": "DualBank",
-        "url": "./dualbank"
-    },
-    {
-        "title": "Marvel Characters Finder",
-        "url": "./marvel-chars_finder"
-    },
-    {
-        "title": "Portifolio@Fotografias",
-        "url": "./portfolio/fotografia"
-    },
-    {
-        "title": "Girassol Boutique",
-        "url": "./girassolboutique"
-    },
-    {
-        "title": "Colaboration Skill",
-        "url": "./colaboracao-skill"
-    },
-    {
-        "title": "Cronograma",
-        "url": "./cronograma"
-    },
-    {
-        "title": "Som dos Gestos",
-        "url": "https://github.com/savio591/som-dos-gestos-HackathonSonyCodeStage"
-    },
-    {
-        "title": "Savil CRUD",
-        "url": "./savil-panel"
-    },
-    {
-        "title": "Savil Guitars",
-        "url": "https://savilexperiments.com.br/atividade7"
-    }
+  {
+    "title": "Landing Page Provi Clone",
+    "url": "./provi-clone"
+  },
+  {
+    "title": "DualBank",
+    "url": "./dualbank"
+  },
+  {
+    "title": "Marvel Characters Finder",
+    "url": "./marvel-chars_finder"
+  },
+  {
+    "title": "Portifolio@Fotografias",
+    "url": "./portfolio/fotografia"
+  },
+  {
+    "title": "Girassol Boutique",
+    "url": "./girassolboutique"
+  },
+  {
+    "title": "Colaboration Skill",
+    "url": "./colaboracao-skill"
+  },
+  {
+    "title": "Cronograma",
+    "url": "./cronograma"
+  },
+  {
+    "title": "Som dos Gestos",
+    "url": "https://github.com/savio591/som-dos-gestos-HackathonSonyCodeStage"
+  },
+  {
+    "title": "Savil CRUD",
+    "url": "./savil-panel"
+  },
+  {
+    "title": "Savil Guitars",
+    "url": "./atividade7"
+  }
 ]
