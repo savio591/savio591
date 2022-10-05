@@ -9,22 +9,20 @@ _)(|\/||  [_><|)(/_|`||||(/_|||__\
 
 ### Olá, visitante!
 
--> Sou o Savio Castelo, tenho 23 anos, desde aos 14 anos trabalho com Design Gráfico e Fotografia, faço Design de Produtos na Universidade Estadual do Amapá e Web Design no SENAI/AP. 
+-> Sou o Savio Castelo, tenho 24 anos!
 
--> O Design é a minha paixão, e para completar, também me apaixonei pelo Mundo Dev. Atualmente dedico a maior parte do tempo em conhecimento sobre Front-End através de amigos, conexões, um bootcamp, um programa de aceleração dev e testes técnicos de _job offers_.
+-> Atualmente eu trabalho com mídias, marketing e publicicade, mas no meu tempo livre me dedico ao Front-End.
 
--> Frequentemente uso as principais tecnologias web, sendo:
-  * HTML4(Email marketing), HTML5(Páginas e WebApps),
-  * CSS - CommonCSS, SCSS(SASS) e Styled(CSS no JS).
-
--> Tenho domínio das stacks do Node, como: 
-  * JS - CommonJS, Typescript e Babel(ESM)
+-> Na área, utilizo principalmente as tecnologias:
+  * HTML4(Para email marketing), HTML5,
+  * CSS - CommonCSS, SCSS(SASS) e Styled(CSS in JS).
+  * JS - CommonJS, Node, Typescript e Babel(ESM)
   * SPA - React.js com Webpack e CRA;
   * SSR e Rest API's - Next.js(Lambda/serverless) e Express;
   
 -> Banco de dados que uso frequentente:
- * FaunaDB - Para queries serveless com Next.js;
- * PostgreSQL - Queries nativas ou com TypeORM;
-  
+ * FaunaDB - Com Next.js;
+ * PostgreSQL - Backend Node em queries nativas ou com TypeORM;
+ 
 
--> Desenvolvedor orientado à pessoas, equipes multidisciplinares e um bom café. Volte sempre!
+-> Com a missão de orientar e ser orientado por pessoas, equipes multidisciplinares e um bom café. Volte sempre!
