@@ -9,7 +9,7 @@ _)(|\/||  [_><|)(/_|`||||(/_|||__\
 
 ### Olá, visitante!
 
--> Sou o Savio Castelo, tenho 245 anos!
+-> Sou o Savio Castelo, tenho 25 anos!
 
 -> Atualmente faço freelas de Motion, 3D e Graduação em Design de Produtos.
 
